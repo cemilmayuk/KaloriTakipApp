@@ -1,0 +1,2092 @@
+[
+  {
+    "name": "Bıldırcın",
+    "calories_per_100": 192,
+    "unit": "gram"
+  },
+  {
+    "name": "Güvercin",
+    "calories_per_100": 294,
+    "unit": "gram"
+  },
+  {
+    "name": "Sülün",
+    "calories_per_100": 181,
+    "unit": "gram"
+  },
+  {
+    "name": "Tavşan",
+    "calories_per_100": 162,
+    "unit": "gram"
+  },
+  {
+    "name": "Alabalık",
+    "calories_per_100": 175,
+    "unit": "gram"
+  },
+  {
+    "name": "Balık Unu",
+    "calories_per_100": 336,
+    "unit": "gram"
+  },
+  {
+    "name": "Kalkan",
+    "calories_per_100": 193,
+    "unit": "gram"
+  },
+  {
+    "name": "Kılıç",
+    "calories_per_100": 164,
+    "unit": "gram"
+  },
+  {
+    "name": "Levrek",
+    "calories_per_100": 93,
+    "unit": "gram"
+  },
+  {
+    "name": "Mersin",
+    "calories_per_100": 96,
+    "unit": "gram"
+  },
+  {
+    "name": "Palamut",
+    "calories_per_100": 168,
+    "unit": "gram"
+  },
+  {
+    "name": "Sardalya",
+    "calories_per_100": 160,
+    "unit": "gram"
+  },
+  {
+    "name": "Sardalya Konserve",
+    "calories_per_100": 205,
+    "unit": "gram"
+  },
+  {
+    "name": "Somon",
+    "calories_per_100": 155,
+    "unit": "gram"
+  },
+  {
+    "name": "Ton",
+    "calories_per_100": 289,
+    "unit": "gram"
+  },
+  {
+    "name": "Tuzlu Balık",
+    "calories_per_100": 305,
+    "unit": "gram"
+  },
+  {
+    "name": "Uskumru",
+    "calories_per_100": 159,
+    "unit": "gram"
+  },
+  {
+    "name": "Ayçiçeği Yağı",
+    "calories_per_100": 884,
+    "unit": "gram"
+  },
+  {
+    "name": "Fındık Yağı",
+    "calories_per_100": 884,
+    "unit": "gram"
+  },
+  {
+    "name": "Haşhaş Yağı",
+    "calories_per_100": 884,
+    "unit": "gram"
+  },
+  {
+    "name": "Keten Tohumu Yağı",
+    "calories_per_100": 884,
+    "unit": "gram"
+  },
+  {
+    "name": "Margarin Kahvaltılık",
+    "calories_per_100": 719,
+    "unit": "gram"
+  },
+  {
+    "name": "Margarin Kahvaltılık",
+    "calories_per_100": 720,
+    "unit": "gram"
+  },
+  {
+    "name": "Mısırözü Yağı",
+    "calories_per_100": 884,
+    "unit": "gram"
+  },
+  {
+    "name": "Nebati Yağ",
+    "calories_per_100": 900,
+    "unit": "gram"
+  },
+  {
+    "name": "Palmiye Yağı",
+    "calories_per_100": 884,
+    "unit": "gram"
+  },
+  {
+    "name": "Pamuk Yağı",
+    "calories_per_100": 884,
+    "unit": "gram"
+  },
+  {
+    "name": "Soya Yağı",
+    "calories_per_100": 884,
+    "unit": "gram"
+  },
+  {
+    "name": "Susam Yağı",
+    "calories_per_100": 884,
+    "unit": "gram"
+  },
+  {
+    "name": "Yerfıstığı Yağı",
+    "calories_per_100": 884,
+    "unit": "gram"
+  },
+  {
+    "name": "Zeytin Yağı",
+    "calories_per_100": 884,
+    "unit": "gram"
+  },
+  {
+    "name": "Defne Yaprağı",
+    "calories_per_100": 313,
+    "unit": "gram"
+  },
+  {
+    "name": "Dere Otu Kuru",
+    "calories_per_100": 253,
+    "unit": "gram"
+  },
+  {
+    "name": "Hardal Toz",
+    "calories_per_100": 469,
+    "unit": "gram"
+  },
+  {
+    "name": "Haşhaş Tohumu",
+    "calories_per_100": 533,
+    "unit": "gram"
+  },
+  {
+    "name": "Hindistan Cevizi Toz",
+    "calories_per_100": 525,
+    "unit": "gram"
+  },
+  {
+    "name": "Karabiber",
+    "calories_per_100": 255,
+    "unit": "gram"
+  },
+  {
+    "name": "Karanfil",
+    "calories_per_100": 323,
+    "unit": "gram"
+  },
+  {
+    "name": "Kekik",
+    "calories_per_100": 276,
+    "unit": "gram"
+  },
+  {
+    "name": "Kırmızıbiber Toz",
+    "calories_per_100": 318,
+    "unit": "gram"
+  },
+  {
+    "name": "Kimyon Toz",
+    "calories_per_100": 375,
+    "unit": "gram"
+  },
+  {
+    "name": "Kuş Üzümü",
+    "calories_per_100": 54,
+    "unit": "gram"
+  },
+  {
+    "name": "Maydonoz Kuru",
+    "calories_per_100": 276,
+    "unit": "gram"
+  },
+  {
+    "name": "Nane Kuru",
+    "calories_per_100": 245,
+    "unit": "gram"
+  },
+  {
+    "name": "Safran",
+    "calories_per_100": 310,
+    "unit": "gram"
+  },
+  {
+    "name": "Tarçın Toz",
+    "calories_per_100": 261,
+    "unit": "gram"
+  },
+  {
+    "name": "Zencefil",
+    "calories_per_100": 347,
+    "unit": "gram"
+  },
+  {
+    "name": "Zerdecal",
+    "calories_per_100": 354,
+    "unit": "gram"
+  },
+  {
+    "name": "Bezelye",
+    "calories_per_100": 295,
+    "unit": "gram"
+  },
+  {
+    "name": "Domates",
+    "calories_per_100": 219,
+    "unit": "gram"
+  },
+  {
+    "name": "Ezogelin",
+    "calories_per_100": 274,
+    "unit": "gram"
+  },
+  {
+    "name": "Maydonoz Kuru",
+    "calories_per_100": 276,
+    "unit": "gram"
+  },
+  {
+    "name": "Nane Kuru",
+    "calories_per_100": 245,
+    "unit": "gram"
+  },
+  {
+    "name": "Safran",
+    "calories_per_100": 310,
+    "unit": "gram"
+  },
+  {
+    "name": "Tarçın Toz",
+    "calories_per_100": 261,
+    "unit": "gram"
+  },
+  {
+    "name": "Zencefil",
+    "calories_per_100": 347,
+    "unit": "gram"
+  },
+  {
+    "name": "Zerdecal",
+    "calories_per_100": 354,
+    "unit": "gram"
+  },
+  {
+    "name": "Bezelye",
+    "calories_per_100": 295,
+    "unit": "gram"
+  },
+  {
+    "name": "Domates",
+    "calories_per_100": 219,
+    "unit": "gram"
+  },
+  {
+    "name": "Ezogelin",
+    "calories_per_100": 274,
+    "unit": "gram"
+  },
+  {
+    "name": "Jelatin",
+    "calories_per_100": 335,
+    "unit": "gram"
+  },
+  {
+    "name": "Kakao",
+    "calories_per_100": 299,
+    "unit": "gram"
+  },
+  {
+    "name": "Maya Kuru",
+    "calories_per_100": 282,
+    "unit": "gram"
+  },
+  {
+    "name": "Maya Yaş",
+    "calories_per_100": 86,
+    "unit": "gram"
+  },
+  {
+    "name": "Sirke",
+    "calories_per_100": 12,
+    "unit": "gram"
+  },
+  {
+    "name": "Tahin",
+    "calories_per_100": 595,
+    "unit": "gram"
+  },
+  {
+    "name": "Turşu Salatalık",
+    "calories_per_100": 10,
+    "unit": "gram"
+  },
+  {
+    "name": "Zeytin Siyah",
+    "calories_per_100": 207,
+    "unit": "gram"
+  },
+  {
+    "name": "Zeytin Yeşil",
+    "calories_per_100": 144,
+    "unit": "gram"
+  },
+  {
+    "name": "Ekmek Buğday",
+    "calories_per_100": 276,
+    "unit": "gram"
+  },
+  {
+    "name": "Ekmek Çavdar",
+    "calories_per_100": 243,
+    "unit": "gram"
+  },
+  {
+    "name": "Ekmek Kepek Dilim",
+    "calories_per_100": 60,
+    "unit": "gram"
+  },
+  {
+    "name": "Galeta Unu",
+    "calories_per_100": 392,
+    "unit": "gram"
+  },
+  {
+    "name": "Grissini",
+    "calories_per_100": 433,
+    "unit": "gram"
+  },
+  {
+    "name": "İrmik",
+    "calories_per_100": 371,
+    "unit": "gram"
+  },
+  {
+    "name": "Kraker Peynirli",
+    "calories_per_100": 479,
+    "unit": "gram"
+  },
+  {
+    "name": "Kraker Sade",
+    "calories_per_100": 384,
+    "unit": "gram"
+  },
+  {
+    "name": "Kraker Tuzlu",
+    "calories_per_100": 433,
+    "unit": "gram"
+  },
+  {
+    "name": "Makarna",
+    "calories_per_100": 369,
+    "unit": "gram"
+  },
+  {
+    "name": "Sandviç Ekmeği",
+    "calories_per_100": 298,
+    "unit": "gram"
+  },
+  {
+    "name": "Yufka",
+    "calories_per_100": 271,
+    "unit": "gram"
+  },
+  {
+    "name": "Yufka Böreklik",
+    "calories_per_100": 152,
+    "unit": "gram"
+  },
+  {
+    "name": "Jambon",
+    "calories_per_100": 182,
+    "unit": "gram"
+  },
+  {
+    "name": "Kavurma",
+    "calories_per_100": 670,
+    "unit": "gram"
+  },
+  {
+    "name": "Pastırma Çemenli",
+    "calories_per_100": 250,
+    "unit": "gram"
+  },
+  {
+    "name": "Pastırma Çemensiz",
+    "calories_per_100": 269,
+    "unit": "gram"
+  },
+  {
+    "name": "Salam",
+    "calories_per_100": 450,
+    "unit": "gram"
+  },
+  {
+    "name": "Sosis",
+    "calories_per_100": 322,
+    "unit": "gram"
+  },
+  {
+    "name": "Sucuk",
+    "calories_per_100": 452,
+    "unit": "gram"
+  },
+  {
+    "name": "Balık Yağı",
+    "calories_per_100": 900,
+    "unit": "gram"
+  },
+  {
+    "name": "İçyağı",
+    "calories_per_100": 758,
+    "unit": "gram"
+  },
+  {
+    "name": "Kuyruk Yağı",
+    "calories_per_100": 902,
+    "unit": "gram"
+  },
+  {
+    "name": "Sade Yağ Erimiş",
+    "calories_per_100": 890,
+    "unit": "gram"
+  },
+  {
+    "name": "Tereyağı Tatlı Kaşığı",
+    "calories_per_100": 100,
+    "unit": "gram"
+  },
+  {
+    "name": "Adaçayı",
+    "calories_per_100": 315,
+    "unit": "gram"
+  },
+  {
+    "name": "Beyaz Şarap Kadeh",
+    "calories_per_100": 80,
+    "unit": "gram"
+  },
+  {
+    "name": "Bira",
+    "calories_per_100": 150,
+    "unit": "gram"
+  },
+  {
+    "name": "Cin",
+    "calories_per_100": 231,
+    "unit": "gram"
+  },
+  {
+    "name": "Cola Normal Kutu",
+    "calories_per_100": 160,
+    "unit": "gram"
+  },
+  {
+    "name": "Domates Suyu",
+    "calories_per_100": 16,
+    "unit": "gram"
+  },
+  {
+    "name": "Gazoz",
+    "calories_per_100": 39,
+    "unit": "gram"
+  },
+  {
+    "name": "Ihlamur",
+    "calories_per_100": 42,
+    "unit": "gram"
+  },
+  {
+    "name": "Kırmızı Şarap Kadeh",
+    "calories_per_100": 75,
+    "unit": "gram"
+  },
+  {
+    "name": "Limonata",
+    "calories_per_100": 21,
+    "unit": "gram"
+  },
+  {
+    "name": "Meyve Suyu",
+    "calories_per_100": 31,
+    "unit": "gram"
+  },
+  {
+    "name": "Portakal Suyu",
+    "calories_per_100": 45,
+    "unit": "gram"
+  },
+  {
+    "name": "Rose Şarap",
+    "calories_per_100": 71,
+    "unit": "gram"
+  },
+  {
+    "name": "Viski",
+    "calories_per_100": 263,
+    "unit": "gram"
+  },
+  {
+    "name": "Votka",
+    "calories_per_100": 275,
+    "unit": "gram"
+  },
+  {
+    "name": "Az Yağlı Dana Eti",
+    "calories_per_100": 156,
+    "unit": "gram"
+  },
+  {
+    "name": "Az Yağlı Domuz Eti",
+    "calories_per_100": 472,
+    "unit": "gram"
+  },
+  {
+    "name": "Az Yağlı Koyun Eti",
+    "calories_per_100": 247,
+    "unit": "gram"
+  },
+  {
+    "name": "Az Yağlı Sığır Eti",
+    "calories_per_100": 225,
+    "unit": "gram"
+  },
+  {
+    "name": "Keçi Eti",
+    "calories_per_100": 145,
+    "unit": "gram"
+  },
+  {
+    "name": "Orta Yağlı Dana Eti",
+    "calories_per_100": 190,
+    "unit": "gram"
+  },
+  {
+    "name": "Orta Yağlı Domuz Eti",
+    "calories_per_100": 513,
+    "unit": "gram"
+  },
+  {
+    "name": "Orta Yağlı Koyun Eti",
+    "calories_per_100": 263,
+    "unit": "gram"
+  },
+  {
+    "name": "Orta Yağlı Sığır Eti",
+    "calories_per_100": 263,
+    "unit": "gram"
+  },
+  {
+    "name": "Yağlı Dana Eti",
+    "calories_per_100": 223,
+    "unit": "gram"
+  },
+  {
+    "name": "Yağlı Domuz Eti",
+    "calories_per_100": 553,
+    "unit": "gram"
+  },
+  {
+    "name": "Yağlı Koyun Eti",
+    "calories_per_100": 310,
+    "unit": "gram"
+  },
+  {
+    "name": "Yağlı Sığır Eti",
+    "calories_per_100": 301,
+    "unit": "gram"
+  },
+  {
+    "name": "Ay Çekirdeği",
+    "calories_per_100": 560,
+    "unit": "gram"
+  },
+  {
+    "name": "Badem",
+    "calories_per_100": 598,
+    "unit": "gram"
+  },
+  {
+    "name": "Bakla İç",
+    "calories_per_100": 338,
+    "unit": "gram"
+  },
+  {
+    "name": "Barbunya",
+    "calories_per_100": 349,
+    "unit": "gram"
+  },
+  {
+    "name": "Bezelye",
+    "calories_per_100": 348,
+    "unit": "gram"
+  },
+  {
+    "name": "Börülce",
+    "calories_per_100": 343,
+    "unit": "gram"
+  },
+  {
+    "name": "Ceviz",
+    "calories_per_100": 651,
+    "unit": "gram"
+  },
+  {
+    "name": "Çam Fıstığı",
+    "calories_per_100": 635,
+    "unit": "gram"
+  },
+  {
+    "name": "Fındık",
+    "calories_per_100": 634,
+    "unit": "gram"
+  },
+  {
+    "name": "Fıstık",
+    "calories_per_100": 560,
+    "unit": "gram"
+  },
+  {
+    "name": "Kuru Fasulye Beyaz",
+    "calories_per_100": 340,
+    "unit": "gram"
+  },
+  {
+    "name": "Kabak Çekirdeği",
+    "calories_per_100": 610,
+    "unit": "gram"
+  },
+  {
+    "name": "Kavunkarpuz Çekirdeği",
+    "calories_per_100": 581,
+    "unit": "gram"
+  },
+  {
+    "name": "Kestane",
+    "calories_per_100": 194,
+    "unit": "gram"
+  },
+  {
+    "name": "Kestane Haşlanmış",
+    "calories_per_100": 131,
+    "unit": "gram"
+  },
+  {
+    "name": "Kestane Kavrulmuş",
+    "calories_per_100": 245,
+    "unit": "gram"
+  },
+  {
+    "name": "Mercimek",
+    "calories_per_100": 340,
+    "unit": "gram"
+  },
+  {
+    "name": "Nohut",
+    "calories_per_100": 360,
+    "unit": "gram"
+  },
+  {
+    "name": "Palamut Çekirdeği",
+    "calories_per_100": 268,
+    "unit": "gram"
+  },
+  {
+    "name": "Soya Fasulyesi",
+    "calories_per_100": 403,
+    "unit": "gram"
+  },
+  {
+    "name": "Soya Unu Az Yağlı",
+    "calories_per_100": 356,
+    "unit": "gram"
+  },
+  {
+    "name": "Soya Unu Yağsız",
+    "calories_per_100": 326,
+    "unit": "gram"
+  },
+  {
+    "name": "Susam",
+    "calories_per_100": 582,
+    "unit": "gram"
+  },
+  {
+    "name": "Şam Fıstığı",
+    "calories_per_100": 594,
+    "unit": "gram"
+  },
+  {
+    "name": "Yer Fıstığı",
+    "calories_per_100": 582,
+    "unit": "gram"
+  },
+  {
+    "name": "Hindi Et Ve Deri",
+    "calories_per_100": 160,
+    "unit": "gram"
+  },
+  {
+    "name": "Kaz",
+    "calories_per_100": 371,
+    "unit": "gram"
+  },
+  {
+    "name": "Ördek",
+    "calories_per_100": 404,
+    "unit": "gram"
+  },
+  {
+    "name": "Şehr Tavuk Çorbası Pors",
+    "calories_per_100": 75,
+    "unit": "gram"
+  },
+  {
+    "name": "Tavuk Bütün",
+    "calories_per_100": 215,
+    "unit": "gram"
+  },
+  {
+    "name": "Tavuk Beyaz Et Derili",
+    "calories_per_100": 186,
+    "unit": "gram"
+  },
+  {
+    "name": "Tavuk Beyaz Et Derisiz",
+    "calories_per_100": 114,
+    "unit": "gram"
+  },
+  {
+    "name": "Tavuk Göğüs Kızarmış",
+    "calories_per_100": 365,
+    "unit": "gram"
+  },
+  {
+    "name": "Tavuk Siyah Et Derisiz",
+    "calories_per_100": 125,
+    "unit": "gram"
+  },
+  {
+    "name": "Tavuk Deri",
+    "calories_per_100": 349,
+    "unit": "gram"
+  },
+  {
+    "name": "Tavuk Siyah Et Derili",
+    "calories_per_100": 237,
+    "unit": "gram"
+  },
+  {
+    "name": "Ahududu Kırmızı",
+    "calories_per_100": 57,
+    "unit": "gram"
+  },
+  {
+    "name": "Ahududu Siyah",
+    "calories_per_100": 73,
+    "unit": "gram"
+  },
+  {
+    "name": "Ananas",
+    "calories_per_100": 52,
+    "unit": "gram"
+  },
+  {
+    "name": "Armut",
+    "calories_per_100": 61,
+    "unit": "gram"
+  },
+  {
+    "name": "Avokado",
+    "calories_per_100": 167,
+    "unit": "gram"
+  },
+  {
+    "name": "Ayva",
+    "calories_per_100": 57,
+    "unit": "gram"
+  },
+  {
+    "name": "Böğürtlen",
+    "calories_per_100": 58,
+    "unit": "gram"
+  },
+  {
+    "name": "Çilek",
+    "calories_per_100": 37,
+    "unit": "gram"
+  },
+  {
+    "name": "Dut",
+    "calories_per_100": 93,
+    "unit": "gram"
+  },
+  {
+    "name": "Elma",
+    "calories_per_100": 58,
+    "unit": "gram"
+  },
+  {
+    "name": "Elma Suyu",
+    "calories_per_100": 47,
+    "unit": "gram"
+  },
+  {
+    "name": "Erik Kırmızı",
+    "calories_per_100": 66,
+    "unit": "gram"
+  },
+  {
+    "name": "Erik Mürdüm",
+    "calories_per_100": 79,
+    "unit": "gram"
+  },
+  {
+    "name": "Erik Mürdüm Kuru",
+    "calories_per_100": 255,
+    "unit": "gram"
+  },
+  {
+    "name": "Erik Pestil",
+    "calories_per_100": 344,
+    "unit": "gram"
+  },
+  {
+    "name": "Greyfurt",
+    "calories_per_100": 41,
+    "unit": "gram"
+  },
+  {
+    "name": "Greyfurt Suyu",
+    "calories_per_100": 39,
+    "unit": "gram"
+  },
+  {
+    "name": "Hurma",
+    "calories_per_100": 274,
+    "unit": "gram"
+  },
+  {
+    "name": "Hurma",
+    "calories_per_100": 15,
+    "unit": "gram"
+  },
+  {
+    "name": "İncir Kuru",
+    "calories_per_100": 274,
+    "unit": "gram"
+  },
+  {
+    "name": "İncir Taze",
+    "calories_per_100": 80,
+    "unit": "gram"
+  },
+  {
+    "name": "Karpuz",
+    "calories_per_100": 26,
+    "unit": "gram"
+  },
+  {
+    "name": "Kavun",
+    "calories_per_100": 33,
+    "unit": "gram"
+  },
+  {
+    "name": "Kayısı Kuru",
+    "calories_per_100": 260,
+    "unit": "gram"
+  },
+  {
+    "name": "Kayısı Taze",
+    "calories_per_100": 17,
+    "unit": "gram"
+  },
+  {
+    "name": "Kayısı Pestil",
+    "calories_per_100": 332,
+    "unit": "gram"
+  },
+  {
+    "name": "Kivi",
+    "calories_per_100": 30,
+    "unit": "gram"
+  },
+  {
+    "name": "Limon",
+    "calories_per_100": 27,
+    "unit": "gram"
+  },
+  {
+    "name": "Limon Suyu",
+    "calories_per_100": 25,
+    "unit": "gram"
+  },
+  {
+    "name": "Mandalina",
+    "calories_per_100": 46,
+    "unit": "gram"
+  },
+  {
+    "name": "Mandalina Suyu",
+    "calories_per_100": 43,
+    "unit": "gram"
+  },
+  {
+    "name": "Muz",
+    "calories_per_100": 105,
+    "unit": "gram"
+  },
+  {
+    "name": "Nar",
+    "calories_per_100": 63,
+    "unit": "gram"
+  },
+  {
+    "name": "Portakal",
+    "calories_per_100": 49,
+    "unit": "gram"
+  },
+  {
+    "name": "Şeftali",
+    "calories_per_100": 38,
+    "unit": "gram"
+  },
+  {
+    "name": "Üzüm Kuru",
+    "calories_per_100": 289,
+    "unit": "gram"
+  },
+  {
+    "name": "Üzüm Taze",
+    "calories_per_100": 67,
+    "unit": "gram"
+  },
+  {
+    "name": "Üzüm Suyu",
+    "calories_per_100": 66,
+    "unit": "gram"
+  },
+  {
+    "name": "Vişne",
+    "calories_per_100": 58,
+    "unit": "gram"
+  },
+  {
+    "name": "Bey Peynir Edirne",
+    "calories_per_100": 235,
+    "unit": "gram"
+  },
+  {
+    "name": "Bey Peynir Urfa",
+    "calories_per_100": 312,
+    "unit": "gram"
+  },
+  {
+    "name": "Bey Peynir Yağlı",
+    "calories_per_100": 289,
+    "unit": "gram"
+  },
+  {
+    "name": "Beypeynir Yağsız",
+    "calories_per_100": 99,
+    "unit": "gram"
+  },
+  {
+    "name": "Cheddar",
+    "calories_per_100": 403,
+    "unit": "gram"
+  },
+  {
+    "name": "Çökelek Kuru",
+    "calories_per_100": 379,
+    "unit": "gram"
+  },
+  {
+    "name": "Çökelek Taze",
+    "calories_per_100": 215,
+    "unit": "gram"
+  },
+  {
+    "name": "Gravyer  Tuzlu",
+    "calories_per_100": 413,
+    "unit": "gram"
+  },
+  {
+    "name": "Kars Tipi",
+    "calories_per_100": 357,
+    "unit": "gram"
+  },
+  {
+    "name": "Kaşar Peyniri",
+    "calories_per_100": 404,
+    "unit": "gram"
+  },
+  {
+    "name": "Krem Peynir Sade",
+    "calories_per_100": 349,
+    "unit": "gram"
+  },
+  {
+    "name": "Lor Peyniri  Yağ",
+    "calories_per_100": 72,
+    "unit": "gram"
+  },
+  {
+    "name": "Lor Peyniri  Yağ",
+    "calories_per_100": 90,
+    "unit": "gram"
+  },
+  {
+    "name": "Lor Peyniri Yağsız",
+    "calories_per_100": 85,
+    "unit": "gram"
+  },
+  {
+    "name": "Otlu Peynir",
+    "calories_per_100": 327,
+    "unit": "gram"
+  },
+  {
+    "name": "Rokfor",
+    "calories_per_100": 369,
+    "unit": "gram"
+  },
+  {
+    "name": "Akciğer Dana",
+    "calories_per_100": 106,
+    "unit": "gram"
+  },
+  {
+    "name": "Beyin",
+    "calories_per_100": 125,
+    "unit": "gram"
+  },
+  {
+    "name": "Böbrek Kuzu",
+    "calories_per_100": 105,
+    "unit": "gram"
+  },
+  {
+    "name": "Dalak Sığır Dana",
+    "calories_per_100": 104,
+    "unit": "gram"
+  },
+  {
+    "name": "Dil Dana",
+    "calories_per_100": 130,
+    "unit": "gram"
+  },
+  {
+    "name": "İşkembe Sığır",
+    "calories_per_100": 100,
+    "unit": "gram"
+  },
+  {
+    "name": "Karaciğer Dana",
+    "calories_per_100": 140,
+    "unit": "gram"
+  },
+  {
+    "name": "Karaciğer Tavuk",
+    "calories_per_100": 129,
+    "unit": "gram"
+  },
+  {
+    "name": "Yürek Dana",
+    "calories_per_100": 124,
+    "unit": "gram"
+  },
+  {
+    "name": "Asma Yaprağı",
+    "calories_per_100": 97,
+    "unit": "gram"
+  },
+  {
+    "name": "Bamya Kurutulmuş",
+    "calories_per_100": 266,
+    "unit": "gram"
+  },
+  {
+    "name": "Bamya Taze",
+    "calories_per_100": 36,
+    "unit": "gram"
+  },
+  {
+    "name": "Bezelye İç",
+    "calories_per_100": 84,
+    "unit": "gram"
+  },
+  {
+    "name": "Bezelye Konserve",
+    "calories_per_100": 88,
+    "unit": "gram"
+  },
+  {
+    "name": "Biber Kurutulmuş",
+    "calories_per_100": 293,
+    "unit": "gram"
+  },
+  {
+    "name": "Biber Taze",
+    "calories_per_100": 22,
+    "unit": "gram"
+  },
+  {
+    "name": "Börülce Taze",
+    "calories_per_100": 127,
+    "unit": "gram"
+  },
+  {
+    "name": "Brokoli Baş",
+    "calories_per_100": 40,
+    "unit": "gram"
+  },
+  {
+    "name": "Domates Kırmızı",
+    "calories_per_100": 25,
+    "unit": "gram"
+  },
+  {
+    "name": "Domates Yeşil",
+    "calories_per_100": 24,
+    "unit": "gram"
+  },
+  {
+    "name": "Domates Suyu",
+    "calories_per_100": 19,
+    "unit": "gram"
+  },
+  {
+    "name": "Ebegümeci",
+    "calories_per_100": 47,
+    "unit": "gram"
+  },
+  {
+    "name": "Enginar",
+    "calories_per_100": 53,
+    "unit": "gram"
+  },
+  {
+    "name": "Fasulye Kurutulmuş",
+    "calories_per_100": 274,
+    "unit": "gram"
+  },
+  {
+    "name": "Fasulye Taze",
+    "calories_per_100": 32,
+    "unit": "gram"
+  },
+  {
+    "name": "Havuç",
+    "calories_per_100": 42,
+    "unit": "gram"
+  },
+  {
+    "name": "Hıyar Soyulmamış",
+    "calories_per_100": 15,
+    "unit": "gram"
+  },
+  {
+    "name": "Hıyar Soyulmuş",
+    "calories_per_100": 14,
+    "unit": "gram"
+  },
+  {
+    "name": "Hindibağ Otu",
+    "calories_per_100": 53,
+    "unit": "gram"
+  },
+  {
+    "name": "Ispanak",
+    "calories_per_100": 26,
+    "unit": "gram"
+  },
+  {
+    "name": "Kabak Kış",
+    "calories_per_100": 26,
+    "unit": "gram"
+  },
+  {
+    "name": "Kabak Yaz",
+    "calories_per_100": 19,
+    "unit": "gram"
+  },
+  {
+    "name": "Karnıbahar",
+    "calories_per_100": 27,
+    "unit": "gram"
+  },
+  {
+    "name": "Kereviz",
+    "calories_per_100": 40,
+    "unit": "gram"
+  },
+  {
+    "name": "Kırmızı Biber Taze",
+    "calories_per_100": 93,
+    "unit": "gram"
+  },
+  {
+    "name": "Kıvırcık",
+    "calories_per_100": 20,
+    "unit": "gram"
+  },
+  {
+    "name": "Konserve Fasulye",
+    "calories_per_100": 24,
+    "unit": "gram"
+  },
+  {
+    "name": "Kuşkonmaz",
+    "calories_per_100": 26,
+    "unit": "gram"
+  },
+  {
+    "name": "Lahana Beyaz",
+    "calories_per_100": 24,
+    "unit": "gram"
+  },
+  {
+    "name": "Lahana Brüksel",
+    "calories_per_100": 63,
+    "unit": "gram"
+  },
+  {
+    "name": "Lahana Kara",
+    "calories_per_100": 45,
+    "unit": "gram"
+  },
+  {
+    "name": "Lahana Kırmızı",
+    "calories_per_100": 31,
+    "unit": "gram"
+  },
+  {
+    "name": "Madımak",
+    "calories_per_100": 22,
+    "unit": "gram"
+  },
+  {
+    "name": "Mantar",
+    "calories_per_100": 28,
+    "unit": "gram"
+  },
+  {
+    "name": "Marul",
+    "calories_per_100": 14,
+    "unit": "gram"
+  },
+  {
+    "name": "Maydonoz",
+    "calories_per_100": 44,
+    "unit": "gram"
+  },
+  {
+    "name": "Mısır Taze",
+    "calories_per_100": 96,
+    "unit": "gram"
+  },
+  {
+    "name": "Nane Taze",
+    "calories_per_100": 65,
+    "unit": "gram"
+  },
+  {
+    "name": "Pancar Kırmızı",
+    "calories_per_100": 43,
+    "unit": "gram"
+  },
+  {
+    "name": "Pancar Yaprak",
+    "calories_per_100": 24,
+    "unit": "gram"
+  },
+  {
+    "name": "Patates",
+    "calories_per_100": 76,
+    "unit": "gram"
+  },
+  {
+    "name": "Patates Unu",
+    "calories_per_100": 351,
+    "unit": "gram"
+  },
+  {
+    "name": "Patlıcan Kurutul",
+    "calories_per_100": 286,
+    "unit": "gram"
+  },
+  {
+    "name": "Patlıcan Taze",
+    "calories_per_100": 25,
+    "unit": "gram"
+  },
+  {
+    "name": "Pazı",
+    "calories_per_100": 33,
+    "unit": "gram"
+  },
+  {
+    "name": "Pırasa",
+    "calories_per_100": 52,
+    "unit": "gram"
+  },
+  {
+    "name": "Roka",
+    "calories_per_100": 33,
+    "unit": "gram"
+  },
+  {
+    "name": "Sarmısak Baş",
+    "calories_per_100": 137,
+    "unit": "gram"
+  },
+  {
+    "name": "Sarmısak Toz",
+    "calories_per_100": 332,
+    "unit": "gram"
+  },
+  {
+    "name": "Semiz Otu",
+    "calories_per_100": 32,
+    "unit": "gram"
+  },
+  {
+    "name": "Soğan Kuru",
+    "calories_per_100": 38,
+    "unit": "gram"
+  },
+  {
+    "name": "Soğan Toz",
+    "calories_per_100": 347,
+    "unit": "gram"
+  },
+  {
+    "name": "Soğan Yeşil",
+    "calories_per_100": 36,
+    "unit": "gram"
+  },
+  {
+    "name": "Şalgam",
+    "calories_per_100": 30,
+    "unit": "gram"
+  },
+  {
+    "name": "Taze Bakla",
+    "calories_per_100": 72,
+    "unit": "gram"
+  },
+  {
+    "name": "Tere",
+    "calories_per_100": 33,
+    "unit": "gram"
+  },
+  {
+    "name": "Turp Kırmızı",
+    "calories_per_100": 19,
+    "unit": "gram"
+  },
+  {
+    "name": "Turp Siyah",
+    "calories_per_100": 30,
+    "unit": "gram"
+  },
+  {
+    "name": "Yer Elması",
+    "calories_per_100": 75,
+    "unit": "gram"
+  },
+  {
+    "name": "Yonca",
+    "calories_per_100": 49,
+    "unit": "gram"
+  },
+  {
+    "name": "Bin Ada Yağı",
+    "calories_per_100": 377,
+    "unit": "gram"
+  },
+  {
+    "name": "Fransız Salata Sosu",
+    "calories_per_100": 430,
+    "unit": "gram"
+  },
+  {
+    "name": "İtalyan Salata Sosu",
+    "calories_per_100": 467,
+    "unit": "gram"
+  },
+  {
+    "name": "Ketçap",
+    "calories_per_100": 106,
+    "unit": "gram"
+  },
+  {
+    "name": "Kıymalı Chili Bard",
+    "calories_per_100": 340,
+    "unit": "gram"
+  },
+  {
+    "name": "Krema  Yağ Süt",
+    "calories_per_100": 134,
+    "unit": "gram"
+  },
+  {
+    "name": "Mayonez",
+    "calories_per_100": 390,
+    "unit": "gram"
+  },
+  {
+    "name": "Salata Sosu Yağlı",
+    "calories_per_100": 449,
+    "unit": "gram"
+  },
+  {
+    "name": "Salça",
+    "calories_per_100": 98,
+    "unit": "gram"
+  },
+  {
+    "name": "Soya Sosu",
+    "calories_per_100": 68,
+    "unit": "gram"
+  },
+  {
+    "name": "Anne Sütü",
+    "calories_per_100": 70,
+    "unit": "gram"
+  },
+  {
+    "name": "İnek  Yağlı",
+    "calories_per_100": 50,
+    "unit": "gram"
+  },
+  {
+    "name": "İnek Yağlı",
+    "calories_per_100": 61,
+    "unit": "gram"
+  },
+  {
+    "name": "İnek Yağsız",
+    "calories_per_100": 35,
+    "unit": "gram"
+  },
+  {
+    "name": "Keçi Sütü",
+    "calories_per_100": 69,
+    "unit": "gram"
+  },
+  {
+    "name": "Koyun",
+    "calories_per_100": 108,
+    "unit": "gram"
+  },
+  {
+    "name": "Manda Sütü",
+    "calories_per_100": 97,
+    "unit": "gram"
+  },
+  {
+    "name": "Soya",
+    "calories_per_100": 33,
+    "unit": "gram"
+  },
+  {
+    "name": "Süt Tozu Yağlı",
+    "calories_per_100": 496,
+    "unit": "gram"
+  },
+  {
+    "name": "Süt Tozu Yağsız",
+    "calories_per_100": 362,
+    "unit": "gram"
+  },
+  {
+    "name": "Yoğurt  Yağlı",
+    "calories_per_100": 50,
+    "unit": "gram"
+  },
+  {
+    "name": "Yoğurt Yağlı",
+    "calories_per_100": 62,
+    "unit": "gram"
+  },
+  {
+    "name": "Akide Şekeri",
+    "calories_per_100": 330,
+    "unit": "gram"
+  },
+  {
+    "name": "Bal",
+    "calories_per_100": 315,
+    "unit": "gram"
+  },
+  {
+    "name": "Bisküvi",
+    "calories_per_100": 418,
+    "unit": "gram"
+  },
+  {
+    "name": "Bisküvi",
+    "calories_per_100": 418,
+    "unit": "gram"
+  },
+  {
+    "name": "Bisküvi Pasta",
+    "calories_per_100": 462,
+    "unit": "gram"
+  },
+  {
+    "name": "Çikolata Bademli",
+    "calories_per_100": 532,
+    "unit": "gram"
+  },
+  {
+    "name": "Çikolata Fıstıklı",
+    "calories_per_100": 543,
+    "unit": "gram"
+  },
+  {
+    "name": "Çikolata Şekerli",
+    "calories_per_100": 528,
+    "unit": "gram"
+  },
+  {
+    "name": "Çikolata Şekersiz",
+    "calories_per_100": 477,
+    "unit": "gram"
+  },
+  {
+    "name": "Dondurma Sütlü",
+    "calories_per_100": 193,
+    "unit": "gram"
+  },
+  {
+    "name": "Karamela",
+    "calories_per_100": 399,
+    "unit": "gram"
+  },
+  {
+    "name": "Lokum",
+    "calories_per_100": 240,
+    "unit": "gram"
+  },
+  {
+    "name": "Marmelat",
+    "calories_per_100": 278,
+    "unit": "gram"
+  },
+  {
+    "name": "Meyva Şekerleme",
+    "calories_per_100": 316,
+    "unit": "gram"
+  },
+  {
+    "name": "Pekmez Üzüm",
+    "calories_per_100": 293,
+    "unit": "gram"
+  },
+  {
+    "name": "Reçel",
+    "calories_per_100": 272,
+    "unit": "gram"
+  },
+  {
+    "name": "Şeker",
+    "calories_per_100": 385,
+    "unit": "gram"
+  },
+  {
+    "name": "Tahin Helvası",
+    "calories_per_100": 516,
+    "unit": "gram"
+  },
+  {
+    "name": "Arpa",
+    "calories_per_100": 349,
+    "unit": "gram"
+  },
+  {
+    "name": "Buğday Aşurelik",
+    "calories_per_100": 335,
+    "unit": "gram"
+  },
+  {
+    "name": "Buğday Durum",
+    "calories_per_100": 332,
+    "unit": "gram"
+  },
+  {
+    "name": "Bulgur",
+    "calories_per_100": 357,
+    "unit": "gram"
+  },
+  {
+    "name": "Corn Flakes",
+    "calories_per_100": 386,
+    "unit": "gram"
+  },
+  {
+    "name": "Çavdar Unu",
+    "calories_per_100": 350,
+    "unit": "gram"
+  },
+  {
+    "name": "Ekmek Beyaz Dilim",
+    "calories_per_100": 90,
+    "unit": "gram"
+  },
+  {
+    "name": "Ekmeklik",
+    "calories_per_100": 365,
+    "unit": "gram"
+  },
+  {
+    "name": "Kepek",
+    "calories_per_100": 213,
+    "unit": "gram"
+  },
+  {
+    "name": "Mısır Haşlan",
+    "calories_per_100": 91,
+    "unit": "gram"
+  },
+  {
+    "name": "Mısır Unu",
+    "calories_per_100": 368,
+    "unit": "gram"
+  },
+  {
+    "name": "Mısır Tane",
+    "calories_per_100": 362,
+    "unit": "gram"
+  },
+  {
+    "name": "Nişasta",
+    "calories_per_100": 362,
+    "unit": "gram"
+  },
+  {
+    "name": "Patlamış Mısır",
+    "calories_per_100": 456,
+    "unit": "gram"
+  },
+  {
+    "name": "Pirinç",
+    "calories_per_100": 363,
+    "unit": "gram"
+  },
+  {
+    "name": "Şehriye",
+    "calories_per_100": 388,
+    "unit": "gram"
+  },
+  {
+    "name": "Tarhana",
+    "calories_per_100": 316,
+    "unit": "gram"
+  },
+  {
+    "name": "Yulaf Unu",
+    "calories_per_100": 388,
+    "unit": "gram"
+  },
+  {
+    "name": "Cheesecake Dilim",
+    "calories_per_100": 280,
+    "unit": "gram"
+  },
+  {
+    "name": "Cheesecake Bütün",
+    "calories_per_100": 3350,
+    "unit": "gram"
+  },
+  {
+    "name": "Çikolatalı Kurabiye",
+    "calories_per_100": 45,
+    "unit": "gram"
+  },
+  {
+    "name": "Elmalı Turta Dilim",
+    "calories_per_100": 405,
+    "unit": "gram"
+  },
+  {
+    "name": "Elmalı Turta Bütün",
+    "calories_per_100": 2420,
+    "unit": "gram"
+  },
+  {
+    "name": "Hanımgöbeği",
+    "calories_per_100": 211,
+    "unit": "gram"
+  },
+  {
+    "name": "Havuçlu Kek Bütün",
+    "calories_per_100": 6175,
+    "unit": "gram"
+  },
+  {
+    "name": "Havuçlu Kek Dilim",
+    "calories_per_100": 385,
+    "unit": "gram"
+  },
+  {
+    "name": "Hurma Tatlısı",
+    "calories_per_100": 318,
+    "unit": "gram"
+  },
+  {
+    "name": "İrmik Helvası",
+    "calories_per_100": 302,
+    "unit": "gram"
+  },
+  {
+    "name": "Jöle",
+    "calories_per_100": 259,
+    "unit": "gram"
+  },
+  {
+    "name": "Kastırd",
+    "calories_per_100": 126,
+    "unit": "gram"
+  },
+  {
+    "name": "Kek Pasta",
+    "calories_per_100": 364,
+    "unit": "gram"
+  },
+  {
+    "name": "Muhallebi",
+    "calories_per_100": 173,
+    "unit": "gram"
+  },
+  {
+    "name": "Sütlaç",
+    "calories_per_100": 139,
+    "unit": "gram"
+  },
+  {
+    "name": "Tel Kadayıf Fıstıklı",
+    "calories_per_100": 286,
+    "unit": "gram"
+  },
+  {
+    "name": "Wafers",
+    "calories_per_100": 535,
+    "unit": "gram"
+  },
+  {
+    "name": "Bıldırcın Yumurta",
+    "calories_per_100": 158,
+    "unit": "gram"
+  },
+  {
+    "name": "Kaz Yumurta",
+    "calories_per_100": 185,
+    "unit": "gram"
+  },
+  {
+    "name": "Ördek Yumurta",
+    "calories_per_100": 185,
+    "unit": "gram"
+  },
+  {
+    "name": "Tavuk Yumurta Beyaz",
+    "calories_per_100": 49,
+    "unit": "gram"
+  },
+  {
+    "name": "Tavuk Yumurta Sarı",
+    "calories_per_100": 369,
+    "unit": "gram"
+  },
+  {
+    "name": "Tavuk Yumurta Tam",
+    "calories_per_100": 158,
+    "unit": "gram"
+  },
+  {
+    "name": "Kaşarlı Menemen",
+    "calories_per_100": 145,
+    "unit": "gram"
+  },
+  {
+    "name": "Simit",
+    "calories_per_100": 276,
+    "unit": "adet"
+  },
+  {
+    "name": "Sucuklu Tost",
+    "calories_per_100": 360,
+    "unit": "adet"
+  },
+  {
+    "name": "Peynirli Börek",
+    "calories_per_100": 290,
+    "unit": "gram"
+  },
+  {
+    "name": "Lahmacun",
+    "calories_per_100": 270,
+    "unit": "adet"
+  },
+  {
+    "name": "Tavuk Döner",
+    "calories_per_100": 245,
+    "unit": "gram"
+  },
+  {
+    "name": "Et Döner",
+    "calories_per_100": 280,
+    "unit": "gram"
+  },
+  {
+    "name": "Adana Kebap",
+    "calories_per_100": 320,
+    "unit": "gram"
+  },
+  {
+    "name": "Urfa Kebap",
+    "calories_per_100": 310,
+    "unit": "gram"
+  },
+  {
+    "name": "Ciğer Şiş",
+    "calories_per_100": 295,
+    "unit": "gram"
+  },
+  {
+    "name": "Kuzu Pirzola",
+    "calories_per_100": 330,
+    "unit": "gram"
+  },
+  {
+    "name": "Karnıyarık",
+    "calories_per_100": 180,
+    "unit": "gram"
+  },
+  {
+    "name": "İmam Bayıldı",
+    "calories_per_100": 160,
+    "unit": "gram"
+  },
+  {
+    "name": "Zeytinyağlı Taze Fasulye",
+    "calories_per_100": 95,
+    "unit": "gram"
+  },
+  {
+    "name": "Kuru Fasulye",
+    "calories_per_100": 336,
+    "unit": "gram"
+  },
+  {
+    "name": "Nohut Yemeği",
+    "calories_per_100": 340,
+    "unit": "gram"
+  },
+  {
+    "name": "Etli Patates",
+    "calories_per_100": 220,
+    "unit": "gram"
+  },
+  {
+    "name": "Tavuk Sote",
+    "calories_per_100": 180,
+    "unit": "gram"
+  },
+  {
+    "name": "Patates Kızartması",
+    "calories_per_100": 312,
+    "unit": "gram"
+  },
+  {
+    "name": "Makarna",
+    "calories_per_100": 158,
+    "unit": "gram"
+  },
+  {
+    "name": "Kıymalı Makarna",
+    "calories_per_100": 225,
+    "unit": "gram"
+  },
+  {
+    "name": "Yoğurtlu Kabak",
+    "calories_per_100": 90,
+    "unit": "gram"
+  },
+  {
+    "name": "Cacık",
+    "calories_per_100": 40,
+    "unit": "ml"
+  },
+  {
+    "name": "Kısır",
+    "calories_per_100": 200,
+    "unit": "gram"
+  },
+  {
+    "name": "Mercimek Köftesi",
+    "calories_per_100": 180,
+    "unit": "gram"
+  },
+  {
+    "name": "İçli Köfte",
+    "calories_per_100": 280,
+    "unit": "adet"
+  },
+  {
+    "name": "Çiğ Köfte",
+    "calories_per_100": 250,
+    "unit": "gram"
+  },
+  {
+    "name": "Humus",
+    "calories_per_100": 240,
+    "unit": "gram"
+  },
+  {
+    "name": "Baklava",
+    "calories_per_100": 430,
+    "unit": "adet"
+  },
+  {
+    "name": "Sütlaç",
+    "calories_per_100": 120,
+    "unit": "porsiyon"
+  },
+  {
+    "name": "Kazandibi",
+    "calories_per_100": 180,
+    "unit": "porsiyon"
+  },
+  {
+    "name": "Tavukgöğsü Tatlısı",
+    "calories_per_100": 150,
+    "unit": "porsiyon"
+  },
+  {
+    "name": "Aşure",
+    "calories_per_100": 215,
+    "unit": "porsiyon"
+  },
+  {
+    "name": "Revani",
+    "calories_per_100": 310,
+    "unit": "porsiyon"
+  },
+  {
+    "name": "Dondurma",
+    "calories_per_100": 207,
+    "unit": "porsiyon"
+  },
+  {
+    "name": "Profiterol",
+    "calories_per_100": 330,
+    "unit": "porsiyon"
+  },
+  {
+    "name": "Meyve Suyu",
+    "calories_per_100": 45,
+    "unit": "ml"
+  },
+  {
+    "name": "Kola",
+    "calories_per_100": 42,
+    "unit": "ml"
+  },
+  {
+    "name": "Gazoz",
+    "calories_per_100": 40,
+    "unit": "ml"
+  },
+  {
+    "name": "Enerji İçeceği",
+    "calories_per_100": 45,
+    "unit": "ml"
+  },
+  {
+    "name": "Ayran",
+    "calories_per_100": 33,
+    "unit": "ml"
+  },
+  {
+    "name": "Şalgam",
+    "calories_per_100": 20,
+    "unit": "ml"
+  },
+  {
+    "name": "Türk Kahvesi",
+    "calories_per_100": 5,
+    "unit": "ml"
+  },
+  {
+    "name": "Nescafe Ü Arada",
+    "calories_per_100": 70,
+    "unit": "adet"
+  },
+  {
+    "name": "Limonata",
+    "calories_per_100": 38,
+    "unit": "ml"
+  },
+  {
+    "name": "Salatalık",
+    "calories_per_100": 16,
+    "unit": "gram"
+  },
+  {
+    "name": "Domates",
+    "calories_per_100": 18,
+    "unit": "gram"
+  },
+  {
+    "name": "Havuç",
+    "calories_per_100": 41,
+    "unit": "gram"
+  },
+  {
+    "name": "Ispanak",
+    "calories_per_100": 23,
+    "unit": "gram"
+  },
+  {
+    "name": "Marul",
+    "calories_per_100": 15,
+    "unit": "gram"
+  },
+  {
+    "name": "Kırmızı Lahana",
+    "calories_per_100": 31,
+    "unit": "gram"
+  },
+  {
+    "name": "Bezelye",
+    "calories_per_100": 81,
+    "unit": "gram"
+  },
+  {
+    "name": "Barbunya",
+    "calories_per_100": 337,
+    "unit": "gram"
+  },
+  {
+    "name": "Taze Fasulye",
+    "calories_per_100": 95,
+    "unit": "gram"
+  }
+]

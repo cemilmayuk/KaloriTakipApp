@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/background_color</item>
+    </style>
+
+    <style name="CustomSnackbar" parent="Widget.MaterialComponents.Snackbar">
+        <item name="android:background">@color/remaining_color</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:maxWidth">400dp</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+</resources> 

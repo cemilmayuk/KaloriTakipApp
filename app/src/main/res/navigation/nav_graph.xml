@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.cemilmayuk.kaloritakipapp.ui.home.HomeFragment"
+        android:label="Ana Sayfa">
+        <action
+            android:id="@+id/action_homeFragment_to_addFoodFragment"
+            app:destination="@id/addFoodFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_goalsFragment"
+            app:destination="@id/goalsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/addFoodFragment"
+        android:name="com.cemilmayuk.kaloritakipapp.ui.addfood.AddFoodFragment"
+        android:label="Yiyecek Ekle" />
+
+    <fragment
+        android:id="@+id/goalsFragment"
+        android:name="com.cemilmayuk.kaloritakipapp.ui.goals.GoalsFragment"
+        android:label="Hedefler" />
+
+</navigation> 
